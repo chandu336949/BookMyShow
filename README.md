@@ -1,7 +1,7 @@
 🎬 ShowTime - BookMyShow Inspired Movie Ticket Booking Platform
 
 🚀 Live Demo:
-ShowTime Live Website
+https://showtime-sneak-peek.lovable.app
 
 📖 About The Project
 
@@ -101,6 +101,3 @@ Chandu Sri
 B.Tech (Computer Science Engineering)
 Frontend Developer | AI Enthusiast | Problem Solver
 
-Connect With Me
-LinkedIn: Add your LinkedIn URL
-GitHub: Add your GitHub URL
